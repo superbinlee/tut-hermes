@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "updatedAt": "2026-05-23T08:23:13.414Z",
+  "skills": {},
+  "commands": {
+    "home/tony/projects/tut_hermes/hermes-agent-main": {
+      "count": 1,
+      "lastUsed": "2026-05-23T02:56:46.679Z"
+    },
+    "home/tony/projects/tut_hermes": {
+      "count": 1,
+      "lastUsed": "2026-05-23T08:23:13.413Z"
+    }
+  },
+  "agents": {},
+  "hooks": {
+    "session-init": {
+      "triggered": 7,
+      "blocked": 0,
+      "lastTriggered": "2026-05-23T07:48:04.603Z"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "session_id": "f838a115-3145-4ad4-adde-21730eaac9cb",
+  "parent_session_id": null,
+  "state": "stopped",
+  "state_version": 1,
+  "started_at": "2026-05-23T07:48:04Z",
+  "updated_at": "2026-05-23T08:24:14Z",
+  "resume_token": "269a9858-4ebd-400f-93b0-9a0a16bcd0c8",
+  "event_seq": 12,
+  "last_event_id": "event-000012",
+  "fork_count": 0,
+  "orchestration": {
+    "max_state_retries": 3,
+    "retry_backoff_seconds": 10
+  },
+  "cwd": "/home/tony/projects/tut_hermes",
+  "project_name": "tut_hermes",
+  "prompt_seq": 4,
+  "git": {
+    "branch": "(no git)",
+    "uncommitted_changes": 0,
+    "last_commit": "none"
+  },
+  "plans": {
+    "exists": false,
+    "last_modified": 0,
+    "wip_tasks": 0,
+    "todo_tasks": 0,
+    "pending_tasks": 0,
+    "completed_tasks": 0
+  },
+  "changes_this_session": [
+    {
+      "file": "docs/README.md",
+      "action": "Edit",
+      "timestamp": "2026-05-23T08:14:56Z",
+      "important": false
+    },
+    {
+      "file": "docs/README.md",
+      "action": "Edit",
+      "timestamp": "2026-05-23T08:17:52Z",
+      "important": false
+    },
+    {
+      "file": ".gitignore",
+      "action": "Write",
+      "timestamp": "2026-05-23T08:24:14Z",
+      "important": false
+    }
+  ],
+  "intent": "literal",
+  "ended_at": "2026-05-23T08:06:18Z",
+  "duration_minutes": 18,
+  "memory_logged": true,
+  "last_message_length": 154,
+  "last_message_hash": "6a6b38f5355db66f"
+}

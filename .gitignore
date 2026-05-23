@@ -1,0 +1,14 @@
+# Large binaries and build artifacts
+*.zip
+*.whl
+.github/
+hermes-agent-main/venv/
+hermes_pkg/.venv/
+hermes_pkg/data/
+*.so
+*.pyc
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.git/

@@ -1,0 +1,37 @@
+{
+  "session_id": "f838a115-3145-4ad4-adde-21730eaac9cb",
+  "parent_session_id": null,
+  "state": "stopped",
+  "state_version": 1,
+  "started_at": "2026-05-23T07:48:04Z",
+  "updated_at": "2026-05-23T08:06:18Z",
+  "resume_token": "269a9858-4ebd-400f-93b0-9a0a16bcd0c8",
+  "event_seq": 3,
+  "last_event_id": "event-000003",
+  "fork_count": 0,
+  "orchestration": {
+    "max_state_retries": 3,
+    "retry_backoff_seconds": 10
+  },
+  "cwd": "/home/tony/projects/tut_hermes",
+  "project_name": "tut_hermes",
+  "prompt_seq": 1,
+  "git": {
+    "branch": "(no git)",
+    "uncommitted_changes": 0,
+    "last_commit": "none"
+  },
+  "plans": {
+    "exists": false,
+    "last_modified": 0,
+    "wip_tasks": 0,
+    "todo_tasks": 0,
+    "pending_tasks": 0,
+    "completed_tasks": 0
+  },
+  "changes_this_session": [],
+  "intent": "literal",
+  "ended_at": "2026-05-23T08:06:18Z",
+  "duration_minutes": 18,
+  "memory_logged": true
+}
